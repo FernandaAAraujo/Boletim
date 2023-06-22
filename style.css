@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box; 
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+container {
+    background-color: rgb(7, 6, 95);
+    padding: 24px 59px 63px 59px;
+
+    
+}
+
+title {
+    color:blueviolet
+    font-size 28px;
+    text-transform:uppercase;
+}
